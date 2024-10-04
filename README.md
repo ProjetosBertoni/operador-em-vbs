@@ -1,1 +1,1 @@
-# operador-em-vbs
+# operador-em-vbscript
